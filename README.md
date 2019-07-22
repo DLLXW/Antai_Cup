@@ -1,1 +1,1 @@
-关于推荐系统的一些基本知识和对于赛题的思考
+Antai Cup-International E-commerce Artificial Intelligence Challenge
